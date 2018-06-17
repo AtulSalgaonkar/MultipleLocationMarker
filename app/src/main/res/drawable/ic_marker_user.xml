@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:bottom="16dp"
+        android:drawable="@drawable/ic_fiber_manual_record_24dp"
+        android:left="10dp"
+        android:right="10dp"
+        android:top="4dp" />
+    <item android:drawable="@drawable/ic_person_pin_circle_24dp" />
+
+</layer-list>
